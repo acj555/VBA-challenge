@@ -19,3 +19,6 @@ You can use this if you have stock data in a pretty specific format.  The format
 Screenshots for my project are below:
 
 ![Screenshot one](SC1.png)
+![Screenshot two](SC2.png)
+![Screenshot three](SC3.png)
+![Screenshot four](SC4.png)
