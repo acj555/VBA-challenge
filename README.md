@@ -5,7 +5,7 @@ Description:
 
 This script can be used to analyze a spreadsheet of trading data to summarize the activity by ticker, the change in price over that period, the percentage change over that period, and the total volume of that ticker. 
 
-It will then look at each quarter and identify the tickers with the biggest increase and decrease.  It will return the ticker for those stocks and the volumne for those stocks.  
+It will then examine each quarter and identify the tickers with the biggest increases and decreases. It will then return the ticker and volume for those stocks.  
 
 Challenges:
 
@@ -14,5 +14,8 @@ Part of this challenge was also to keep the variables defined properly.  Moving 
 
 Uses:
 
-You can use this if you have a stock data in a pretty specific format.  The format must be columns of <ticker>	<date>	<open>	<high>	<low>	<close>	<vol>.  You can have multiple days of data from the same ticker and multiple tickers.  If you have that format this script will work. 
+You can use this if you have stock data in a pretty specific format.  The format must be columns of <ticker>	<date>	<open>	<high>	<low>	<close>	<vol>.  You can have multiple days of data from the same ticker and multiple tickers.  If you have that format, this script will work. 
  
+Screenshots for my project are below:
+
+![Screenshot one](SC1.png)
